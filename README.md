@@ -37,7 +37,7 @@ CodeAlpha_Web_Scraper/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/CodeAlpha_Web_Scraper.git
+git clone https://github.com/hannisingh/CodeAlpha_Web_Scraper.git
 cd CodeAlpha_Web_Scraper
 ```
 
